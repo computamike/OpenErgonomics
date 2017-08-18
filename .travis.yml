@@ -1,9 +1,11 @@
+
 dist: trusty
 sudo: required
 language: python
 
 python:
  - "2.7"
+
 # uncomment and edit the following line if your project needs to run something other than `rake`:
 
 before_install:
@@ -16,3 +18,8 @@ install: true
  
 script:
   - inkscape -z -e Ergonomic Background Screen (1920x1080) -w 1920 -h 1080 Ergonomic Background Screen.svg
+deploy:
+  skip_cleanup: true
+  on:
+    branch: master
+    tags: true
