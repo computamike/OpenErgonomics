@@ -21,5 +21,5 @@ script:
 deploy:
   skip_cleanup: true
   on:
-    branch: master
+    branch: gh-pages
     tags: true
