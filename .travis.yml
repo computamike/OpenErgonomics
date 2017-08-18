@@ -15,11 +15,10 @@ before_install:
 install: true
  
  
- 
-script:
-  - inkscape -z -e Ergonomic Background Screen (1920x1080) -w 1920 -h 1080 Ergonomic Background Screen.svg
+script: true
+before_deploy: true
+
 deploy:
-  skip_cleanup: true
   on:
     branch: gh-pages
     tags: true
