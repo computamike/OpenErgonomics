@@ -28,6 +28,7 @@ deploy:
   file: 'OpenErgonomics.tar.gz'
   skip_cleanup: true
   on:
+    branch: gh-pages
     tags: true
 
 
