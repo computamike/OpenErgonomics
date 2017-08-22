@@ -15,6 +15,7 @@ install: true
  
  
 script:
+  - ls -l
   - inkscape -z -e "Ergonomic Background Screen (1920x1080).png" -w 1920 -h 1080 Ergonomic Background Screen.svg
   - inkscape -z -e "Ergonomic Background Screen (800x600).png" -w 800 -h 600 Ergonomic Background Screen.svg
 before_deploy: 
