@@ -17,7 +17,7 @@
    inkscape:export-filename="C:\Users\mhingley\Desktop\Ergonomic Setup\Ergonomic Background Screen (1920x1080).png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
-   sodipodi:docname="New document 1">
+   sodipodi:docname="Ergonomic Background Screen.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -27,14 +27,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="641.78991"
-     inkscape:cy="228.57987"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="4.1815344"
+     inkscape:cy="784.72102"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1018"
+     inkscape:window-height="1017"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1" />
@@ -46,28 +46,53 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Layer 1"
+     inkscape:label="Background"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,27.637832)">
+     transform="translate(0,27.637832)"
+     style="display:inline">
+    <rect
+       style="fill:#e6e6e6;fill-opacity:0.98431373;fill-rule:nonzero;stroke:#1c890b;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+       id="rect3015"
+       width="1919"
+       height="1079"
+       x="0.5"
+       y="-27.137796" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Guides"
+     style="display:inline">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 0.5836189,359.5 1918.8328811,0"
+       id="path3000"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3004"
+       d="M 960.5,-0.01703037 960.5,907.5796"
+       style="fill:none;stroke:#000000;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <path
        sodipodi:type="arc"
-       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;display:inline"
        id="path3779"
        sodipodi:cx="-720"
        sodipodi:cy="322.85715"
        sodipodi:rx="77.14286"
        sodipodi:ry="77.14286"
        d="m -642.85714,322.85715 a 77.14286,77.14286 0 1 1 -154.28572,0 77.14286,77.14286 0 1 1 154.28572,0 z"
-       transform="matrix(0.60167449,0,0,0.60167449,1393.2057,138.10726)" />
+       transform="matrix(0.60167449,0,0,0.60167449,1393.2057,165.74509)" />
     <text
+       transform="translate(0,27.637832)"
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        x="1137.4316"
        y="282.62595"
        id="text3783"
@@ -75,80 +100,19 @@
          sodipodi:role="line"
          id="tspan3785"
          x="1137.4316"
-         y="282.62595">Your Eyeline should be here</tspan></text>
-    <rect
-       style="fill:none;stroke:#000000;stroke-width:0.99999988;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="rect3789"
-       width="959"
-       height="359"
-       x="0.49999997"
-       y="-27.137833" />
-    <g
-       id="g4153">
-      <rect
-         style="fill:none;stroke:#000000;stroke-width:0.99999988;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         id="rect4151"
-         width="959"
-         height="359"
-         x="960.5"
-         y="-27.137833" />
-    </g>
-    <rect
-       y="-27.137833"
-       x="0.49999997"
-       height="359"
-       width="959"
-       id="rect4156"
-       style="fill:none;stroke:#000000;stroke-width:0.99999988;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-    <g
-       id="g4158">
-      <rect
-         y="-27.137833"
-         x="960.5"
-         height="359"
-         width="959"
-         id="rect4160"
-         style="fill:none;stroke:#000000;stroke-width:0.99999988;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-    </g>
-    <rect
-       style="fill:none;stroke:#000000;stroke-width:0.99999988;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="rect4162"
-       width="959"
-       height="359"
-       x="0.49999997"
-       y="692.86218" />
-    <g
-       id="g4164"
-       transform="translate(-5.9604645e-8,720)">
-      <rect
-         style="fill:none;stroke:#000000;stroke-width:0.99999988;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         id="rect4166"
-         width="959"
-         height="359"
-         x="960.5"
-         y="-27.137833" />
-    </g>
-    <g
-       transform="translate(-5.9604645e-8,360)"
-       id="g4168">
-      <rect
-         y="-27.137833"
-         x="960.5"
-         height="359"
-         width="959"
-         id="rect4170"
-         style="fill:none;stroke:#000000;stroke-width:0.99999988;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-    </g>
-    <g
-       id="g4172"
-       transform="translate(-960,360)">
-      <rect
-         style="fill:none;stroke:#000000;stroke-width:0.99999988;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         id="rect4174"
-         width="959"
-         height="359"
-         x="960.5"
-         y="-27.137833" />
-    </g>
+         y="282.62595">Your eyeline should be here</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="268.7793"
+       y="988"
+       id="text3009"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3011"
+         x="268.7793"
+         y="988">Find out more, or contribute at <tspan
+   style="fill:#0000ff"
+   id="tspan3013">http://computamike.github.io/OpenErgonomics/</tspan></tspan></text>
   </g>
 </svg>
