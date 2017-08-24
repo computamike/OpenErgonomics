@@ -39,19 +39,11 @@
 
         <aside id="sidebar">
           {% if site.show_latest_release %}
-              
-                    [{{site.github.latest_release}}]
-                    [{{site.github.latest_release.assets[0]}}]
-                    [{{site.github.latest_release.assets[0].browser_download_url}}]
-          
-          <h1>{{site.github.latest_release.browser_download_url}}</h1>
-                    
-          
-          <a href="{{ site.github.latest_release.browser_download_url }}" class="button">
-              <small>Latest Release</small>
-             {{ site.github.latest_release.tag_name }}
-             <small>Latest Release</small>
-            </a>
+              <a href="{{site.github.latest_release.assets[0].browser_download_url}" class="button">
+                  <small>Latest Release</small>
+                     {{ site.github.latest_release.name }} {{ site.github.latest_release.tag_name }}
+                 <small>Latest Release</small>
+                </a>
           {% endif %}
           
 
