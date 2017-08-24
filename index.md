@@ -7,3 +7,6 @@ The main thing I needed was a way to ensure that no matter where I went I had th
 In combination with all of this are a set of ergonomic set up guides that can be used to set up any computer to minimise the risk of RSI
 
 Download the latest wallpapers [here](https://github.com/computamike/OpenErgonomics/releases/latest)
+
+### How the build works
+This project uses TravisCI to create a collection of wallpapers.  Apply these wall papers to your desktop(s) to ensure that your eyelevel is correct.
