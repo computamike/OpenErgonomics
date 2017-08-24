@@ -41,6 +41,9 @@
           {% if site.show_latest_release %}
               
                     [{{site.github.latest_release}}]
+                    [{{site.github.latest_release.assets[0]}}]
+                    [{{site.github.latest_release.assets[0].browser_download_url}}]
+          
           <h1>{{site.github.latest_release.browser_download_url}}</h1>
                     
           
