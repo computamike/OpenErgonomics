@@ -2,6 +2,7 @@ title: OpenErgonomics
 description: A project for setting up your work environment for optimal comfort.
 google_analytics: 
 show_downloads: true
+show_latest_release: true
 releases_url: "https://github.com/computamike/OpenErgonomics/releases"
 theme: jekyll-theme-architect
 
