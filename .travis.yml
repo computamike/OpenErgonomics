@@ -25,7 +25,7 @@ before_deploy:
 deploy:
   provider: releases
   api_key: '$GITHUB_API_KEY'
-    file:
+  file:
     - 'OpenErgonomics.tar.gz'
     - 'Ergonomic Background Screen (1920x1080).png'
     - 'Ergonomic Background Screen (800x600).png'
